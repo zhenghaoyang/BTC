@@ -67,7 +67,6 @@ func (pow *ProofOfWork) Run() (int, []byte) {
 		hash = sha256.Sum256(data)
 		// fmt.Printf("第%d次碰撞  \n", nonce)
 		// hashInt
-		// sets z to that value, and returns z.
 		hashInt.SetBytes(hash[:])
 
 		//hashInt > pow.target
