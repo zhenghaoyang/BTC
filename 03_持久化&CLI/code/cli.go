@@ -59,10 +59,10 @@ func (cli *CLI) Run() {
 	//检验
 	cli.validateArgs()
 
-	
 	addBlockCmd := flag.NewFlagSet("addblock", flag.ExitOnError)
 	printChainCmd := flag.NewFlagSet("printchain", flag.ExitOnError)
-	addBlockData := addBlockCmd.String("data", "", "Block data")
+	//(name string, value string, usage string *string)
+	addBlockData := addBlockCmd.String("data", "xxxxxx", "Block data")
 
 	switch os.Args[1] {
 	case "addblock":
@@ -83,6 +83,7 @@ func (cli *CLI) Run() {
 
 	if addBlockCmd.Parsed() {
 		if *addBlockData == "" {
+			//
 			addBlockCmd.Usage()
 			os.Exit(1)
 		}
