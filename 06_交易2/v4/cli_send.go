@@ -1,0 +1,29 @@
+package main
+
+import (
+	"fmt"
+)
+
+func (cli *CLI) send(from, to string, amount int) {
+	if !ValidateAddress(from) {
+		fmt.Println("ERROR: Sender address is not valid")
+	}
+	if !ValidateAddress(to) {
+		fmt.Println("ERROR: Recipient address is not valid")
+	}
+
+	bc := NewBlockchain()
+	UTXOSet := UTXOSet{bc}
+	defer bc.db.Close()
+
+	tx := NewUTXOTransaction(from, to, amount, &UTXOSet)
+	fmt.Println("要发送amunt===",amount)
+	//
+	cbTx := NewCoinbaseTX(from, "")
+
+	txs := []*Transaction{cbTx, tx}
+	//
+	newBlock := bc.MineBlock(txs)
+	UTXOSet.Update(newBlock)
+	fmt.Println("Send Success!")
+}

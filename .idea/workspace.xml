@@ -1,0 +1,811 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/04_交易/main/cli.go" description="&#10;func (cli *CLI)getBalance(address string){&#10;&#9;bc :=..." line="75" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="87d5d90a-45bf-4f2c-9682-e6ab4d668132" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/03_持久化&amp;CLI/code/block.go" beforeDir="false" afterPath="$PROJECT_DIR$/03_持久化&amp;CLI/code/block.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_持久化&amp;CLI/code/blockchain.db" beforeDir="false" afterPath="$PROJECT_DIR$/03_持久化&amp;CLI/code/blockchain.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_持久化&amp;CLI/code/code.exe" beforeDir="false" afterPath="$PROJECT_DIR$/03_持久化&amp;CLI/code/code.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_持久化&amp;CLI/code/db.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go语言圣经/ex5/dst.txt" beforeDir="false" afterPath="$PROJECT_DIR$/go语言圣经/ex5/dst.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/go语言圣经/ex5/main.exe" beforeDir="false" afterPath="$PROJECT_DIR$/go语言圣经/ex5/main.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/go语言圣经/ex5/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/go语言圣经/ex5/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/go语言圣经/ex5/temp.go" beforeDir="false" afterPath="$PROJECT_DIR$/go语言圣经/ex5/temp.go" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="false" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1651429455">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="18" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.1" value="8" />
+          <entry key="project.open.time.11" value="2" />
+          <entry key="project.open.time.12" value="1" />
+          <entry key="project.open.time.15" value="1" />
+          <entry key="project.open.time.16" value="2" />
+          <entry key="project.open.time.19" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.21" value="1" />
+          <entry key="project.open.time.30" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.open.time.9" value="2" />
+          <entry key="project.opened" value="23" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="go" value="279" />
+          <entry key="md" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Go" value="279" />
+          <entry key="PLAIN_TEXT" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="go" value="11997" />
+          <entry key="md" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Go" value="11997" />
+          <entry key="PLAIN_TEXT" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.go.postfix.template.usages.trigger">
+        <counts>
+          <entry key=".var" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="BTC" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/07-网络/src/server.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="122">
+              <caret line="496" lean-forward="true" selection-start-line="496" selection-end-line="496" />
+              <folding>
+                <element signature="e#3934#4065#0" />
+                <element signature="e#4071#4120#0" />
+                <element signature="e#4771#4817#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/07_网络/src/main.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/07_网络/src/utils.go">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/07_网络/src/cli.go">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/07_网络/src/server.go">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/07_网络/src/transaction.go">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/07_网络/src/utxo_set.go">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/07-网络/src/cli_createblockchain.go">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/07-网络/src/merkle_tree_test.go">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/07-网络/src/cli_startnode.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="304">
+              <caret line="19" column="8" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>String</find>
+      <find>unspen</find>
+      <find>unspentOutputs[0]</find>
+      <find>send</find>
+      <find>unspend</find>
+      <find>amount</find>
+      <find>newblock</find>
+      <find>newBlock.Hash</find>
+      <find>printchain</find>
+      <find>wallets load from fail</find>
+      <find>=====================</find>
+      <find>FindUnspentTransactions</find>
+      <find>unspentOutputs[txID]</find>
+      <find>fmt.Println</find>
+      <find>b.Get</find>
+      <find>tx.Vin</find>
+      <find>cli.send</find>
+      <find>NewCoinbaseTX</find>
+      <find>Invalid transaction</find>
+      <find>ERROR</find>
+      <find>ERROR: Invalid transaction</find>
+      <find>b.Get(</find>
+      <find>accumulated</find>
+      <find>cli.reindexUTXO</find>
+      <find>当前有</find>
+      <find>Errorf</find>
+      <find>GetAddresses</find>
+      <find>test</find>
+      <find>getblocks</find>
+      <find>handleInv</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>NewBlockchain</replace>
+      <replace>Println</replace>
+    </replaceStrings>
+  </component>
+  <component name="GOROOT" path="C:\goproject\go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/06_交易2/v2/UTXOSet.go" />
+        <option value="$PROJECT_DIR$/06_交易2/v2/block.go" />
+        <option value="$PROJECT_DIR$/06_交易2/v2/NewProofOfWork.go" />
+        <option value="$PROJECT_DIR$/06_交易2/v2/transaction.go" />
+        <option value="$PROJECT_DIR$/06_交易2/v2/cli.go" />
+        <option value="$PROJECT_DIR$/06_交易2/v2/blockchain.go" />
+        <option value="$PROJECT_DIR$/06_交易2/v3/blockchain.go" />
+        <option value="$PROJECT_DIR$/06_交易2/v3/cli_printChain.go" />
+        <option value="$PROJECT_DIR$/06_交易2/v3/NewProofOfWork.go" />
+        <option value="$PROJECT_DIR$/06_交易2/v3/cli_getBalance.go" />
+        <option value="$PROJECT_DIR$/05_地址/bug/cli.go" />
+        <option value="$PROJECT_DIR$/05_地址/bug/system.go" />
+        <option value="$PROJECT_DIR$/05_地址/bug/transaction.go" />
+        <option value="$PROJECT_DIR$/05_地址/bug/blockchain.go" />
+        <option value="$PROJECT_DIR$/05_地址/src/main.go" />
+        <option value="$PROJECT_DIR$/06_交易2/v1/cli.go" />
+        <option value="$PROJECT_DIR$/06_交易2/v3/cli.go" />
+        <option value="$PROJECT_DIR$/06_交易2/v3/UTXOSet.go" />
+        <option value="$PROJECT_DIR$/06_交易2/main.go" />
+        <option value="$PROJECT_DIR$/06_交易2/v4/blockchain.go" />
+        <option value="$PROJECT_DIR$/06_交易2/v4/cli.go" />
+        <option value="$PROJECT_DIR$/06_交易2/v4/cli_createWallet.go" />
+        <option value="$PROJECT_DIR$/06_交易2/v4/cli_send.go" />
+        <option value="$PROJECT_DIR$/06_交易2/v4/transaction.go" />
+        <option value="$PROJECT_DIR$/06_交易2/v4/UTXOSet.go" />
+        <option value="$PROJECT_DIR$/06_交易2/v5/cli_createWallet.go" />
+        <option value="$PROJECT_DIR$/06_交易2/v5/cli_send.go" />
+        <option value="$PROJECT_DIR$/06_交易2/v5/UTXOSet.go" />
+        <option value="$PROJECT_DIR$/06_交易2/v5/cli.go" />
+        <option value="$PROJECT_DIR$/06_交易2/v5/cli_reindexUTXO.go" />
+        <option value="$PROJECT_DIR$/06_交易2/v5/blockchain.go" />
+        <option value="$PROJECT_DIR$/07_网络/v6/cli.go" />
+        <option value="$PROJECT_DIR$/07_网络/v6/cli_startNode.go" />
+        <option value="$PROJECT_DIR$/07_网络/v6/blockchain.go" />
+        <option value="$PROJECT_DIR$/07_网络/v6/Server.go" />
+        <option value="$PROJECT_DIR$/04_交易/main/cli.go" />
+        <option value="$PROJECT_DIR$/06_交易2/v1/utils.go" />
+        <option value="$PROJECT_DIR$/06_交易2/v5/TXInput.go" />
+        <option value="$PROJECT_DIR$/06_交易2/v5/TXOutput.go" />
+        <option value="$PROJECT_DIR$/06_交易2/v5/transaction.go" />
+        <option value="$PROJECT_DIR$/07-网络/src/proofofwork.go" />
+        <option value="$PROJECT_DIR$/07-网络/src/cli_send.go" />
+        <option value="$PROJECT_DIR$/07-网络/src/cli.go" />
+        <option value="$PROJECT_DIR$/07-网络/src/cli_startnode.go" />
+        <option value="$PROJECT_DIR$/07-网络/src/server.go" />
+        <option value="$PROJECT_DIR$/07_网络/src/main.go" />
+        <option value="$PROJECT_DIR$/07_网络/src/server.go" />
+        <option value="$PROJECT_DIR$/07_网络/src/transaction.go" />
+        <option value="$PROJECT_DIR$/07_网络/src/utxo_set.go" />
+        <option value="$PROJECT_DIR$/07_网络/src/NoCare.go" />
+        <option value="$PROJECT_DIR$/07_网络/src/cli.go" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="73" />
+    <option name="y" value="84" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="BTC" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BTC" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BTC" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BTC" type="462c0819:PsiDirectoryNode" />
+              <item name="07_网络" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BTC" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BTC" type="462c0819:PsiDirectoryNode" />
+              <item name="07_网络" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BTC" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="go.gopath.indexing.explicitly.defined" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/07_网络/src" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="go" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\goproject\src\BTC" />
+      <recent name="C:\goproject\src\BTC\06_交易2\v1" />
+      <recent name="C:\goproject\src\BTC\05_地址\src" />
+      <recent name="C:\goproject\src\BTC\go语言圣经\bibi\goroutine" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\goproject\src\BTC\07_网络\src" />
+      <recent name="C:\goproject\src\BTC\bitcoin_xdl" />
+      <recent name="C:\goproject\src\BTC\07_网络" />
+      <recent name="C:\goproject\src\BTC" />
+      <recent name="C:\goproject\src\BTC\06_交易2" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Go Build.go build main.go (3)">
+    <configuration name="go build main.go (1)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="BTC" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <go_parameters value="-i" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/go语言圣经/bibi/channel/main.go" />
+      <package value="BTC" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build main.go (2)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="BTC" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <go_parameters value="-i" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/05_地址/src/main.go" />
+      <package value="BTC" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build main.go (3)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="BTC" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <go_parameters value="-i" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/06_交易2/main.go" />
+      <package value="BTC" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="BTC" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <go_parameters value="-i" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/go语言圣经/bibi/main.go" />
+      <package value="BTC" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Go Build.go build main.go" />
+      <item itemvalue="Go Build.go build main.go (1)" />
+      <item itemvalue="Go Build.go build main.go (2)" />
+      <item itemvalue="Go Build.go build main.go (3)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build main.go (3)" />
+        <item itemvalue="Go Build.go build main.go (2)" />
+        <item itemvalue="Go Build.go build main.go (1)" />
+        <item itemvalue="Go Build.go build main.go" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",EXPORTABILITY_SORTER" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.6685083" visible="true" weight="0.25648415" />
+      <window_info id="Structure" order="1" sideWeight="0.3314917" side_tool="true" visible="true" weight="0.25648415" />
+      <window_info id="Favorites" order="2" sideWeight="0.41216215" side_tool="true" weight="0.26712328" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32872927" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.56629837" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.2320442" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.5974843" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.16891892" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" weight="0.32952815" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.2618243" visible="true" weight="0.23135464" />
+      <window_info active="true" id="Structure" order="1" sideWeight="0.7381757" side_tool="true" visible="true" weight="0.23135464" />
+      <window_info id="Favorites" order="2" sideWeight="0.43905818" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32872927" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.56629837" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.2320442" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.74585634" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.32963988" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" weight="0.32952815" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/04_交易/main/blockchain.go</url>
+          <line>214</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/07_网络/v6/blockchain.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="14" column="29" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07_网络/v6/utils.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2090">
+          <caret line="118" column="28" selection-start-line="118" selection-start-column="28" selection-end-line="118" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06_交易2/v2/transaction.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="21" column="51" selection-start-line="21" selection-start-column="51" selection-end-line="21" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07-网络/src/utxo_set.go">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07-网络/src/utils.go">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07_网络/v6/Server.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="12" column="12" selection-start-line="12" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_交易/main/block.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="32" column="26" selection-start-line="32" selection-start-column="26" selection-end-line="32" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_交易/main/proofofwork.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="760">
+          <caret line="48" column="22" selection-start-line="48" selection-start-column="22" selection-end-line="48" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_交易/main/blockchain.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1672">
+          <caret line="94" column="41" selection-start-line="94" selection-start-column="21" selection-end-line="94" selection-end-column="41" />
+          <folding>
+            <element signature="n#!!block;n#FindUnspentTransactions#0" />
+            <element signature="n#!!block;n#CreateBlockchain#0" />
+            <element signature="n#!!block;n#NewBlockChain#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_交易/main/cli.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1767">
+          <caret line="99" selection-start-line="99" selection-end-line="100" selection-end-column="92" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_交易/main/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05_地址/address/base58.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="14" column="4" selection-start-line="13" selection-start-column="38" selection-end-line="14" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bitcoin_xdl/v5/cli.go">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06_交易2/v1/cli.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="817">
+          <caret line="48" column="17" selection-start-line="48" selection-start-column="17" selection-end-line="48" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06_交易2/v1/cli_createWallet.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06_交易2/v1/utils.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1748">
+          <caret line="99" column="5" selection-start-line="99" selection-start-column="5" selection-end-line="99" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06_交易2/v1/wallets.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="142">
+          <caret line="76" column="33" selection-start-line="76" selection-start-column="33" selection-end-line="76" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06_交易2/v5/TXInput.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" selection-start-line="12" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06_交易2/v5/utils.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06_交易2/v5/NewProofOfWork.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06_交易2/v5/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="10" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06_交易2/v5/block.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="292">
+          <caret line="43" column="19" lean-forward="true" selection-start-line="43" selection-start-column="19" selection-end-line="43" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06_交易2/v5/cli_printChain.go">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06_交易2/v5/wallets.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="90" selection-start-line="90" selection-end-line="93" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06_交易2/v5/TXOutput.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="52" column="13" selection-start-line="52" selection-start-column="13" selection-end-line="52" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06_交易2/v5/cli_send.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="6" selection-start-line="19" selection-start-column="6" selection-end-line="19" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06_交易2/v5/cli_reindexUTXO.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06_交易2/v5/transaction.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="969">
+          <caret line="63" selection-start-line="63" selection-end-line="84" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06_交易2/v5/cli.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="38" column="44" selection-start-line="38" selection-start-column="39" selection-end-line="38" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06_交易2/v5/UTXOSet.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1178">
+          <caret line="91" selection-start-line="91" selection-end-line="118" />
+          <folding>
+            <element signature="n#!!block;n#FindUTXO#0" />
+            <element signature="n#!!block;n#FindSpendableOutputs#0" />
+            <element signature="n#!!block;n#Update#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06_交易2/v5/merkle_tree.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="11" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
+          <folding>
+            <element signature="n#!!block;n#NewMerkleNode#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06_交易2/v5/cli_getBalance.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06_交易2/v5/blockchain.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3059">
+          <caret line="170" column="32" selection-start-line="170" selection-start-column="32" selection-end-line="170" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06_交易2/v5/cli_createWallet.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06_交易2/v5/cli_createBlockchain.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="16" column="4" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07-网络/src/wallet.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="106">
+          <caret line="58" column="5" selection-start-line="58" selection-start-column="5" selection-end-line="58" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07-网络/src/cli_send.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07-网络/src/proofofwork.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="39" column="35" selection-start-line="39" selection-start-column="35" selection-end-line="39" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07-网络/src/blockchain.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="100" column="22" selection-start-line="100" selection-start-column="22" selection-end-line="100" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07-网络/src/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="10" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07-网络/src/cli.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="153" column="17" selection-start-line="153" selection-start-column="17" selection-end-line="153" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07-网络/src/cli_startnode.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="19" column="8" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07-网络/src/cli_createblockchain.go">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07-网络/src/merkle_tree_test.go">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07_网络/src/utxo_set.go">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07_网络/src/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07_网络/src/cli.go">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07_网络/src/server.go">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07_网络/src/utils.go">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07-网络/src/server.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="122">
+          <caret line="496" lean-forward="true" selection-start-line="496" selection-end-line="496" />
+          <folding>
+            <element signature="e#3934#4065#0" />
+            <element signature="e#4071#4120#0" />
+            <element signature="e#4771#4817#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07_网络/src/transaction.go">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+</project>

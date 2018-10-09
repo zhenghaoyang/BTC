@@ -66,7 +66,7 @@ func NewBlock(data string, prevBlockHash []byte) *Block {
 	return block
 }
 
-// NewGenesisBlock creates and returns genesis Block
-func NewGenesisBlock() *Block {
-	return NewBlock("Genesis Block", []byte{})
-}
+	// NewGenesisBlock creates and returns genesis Block
+	func NewGenesisBlock() *Block {
+		return NewBlock("Genesis Block", []byte{})
+	}

@@ -1,0 +1,42 @@
+设置节点
+export NODE_ID=3000
+export NODE_ID=3001
+export NODE_ID=3002
+
+创建&列出地址
+src.exe createwallet
+src.exe listaddresses
+3000
+1A5S2LzLuWyPq8j257wmsjoVzauThm56BV
+3001
+1NvkbxueQRFcGtmK14d5iRq4Afqu6nLdi
+1BDos9C42Qp3u7AEfkcnL5KmjxCh1wv56F
+3002
+1LCtT5maRcPhVnARnN8YiHeokNmq1Xvvc1
+1LnSkbdakD2Si4gnND3qvTTk24WYNeAPnR
+创建区块链
+src.exe  createblockchain -address 1A5S2LzLuWyPq8j257wmsjoVzauThm56BV
+src.exe  createblockchain -address 1NvkbxueQRFcGtmK14d5iRq4Afqu6nLdi
+src.exe  createblockchain -address 1LCtT5maRcPhVnARnN8YiHeokNmq1Xvvc1
+
+复制DB
+cp blockchain_3000.db blockchain_genesis.db 
+cp blockchain_genesis.db blockchain_3001.db
+cp blockchain_genesis.db blockchain_3002.db
+
+开启节点
+src.exe startnode
+src.exe startnode -miner 1LnSkbdakD2Si4gnND3qvTTk24WYNeAPnR
+
+交易
+src.exe send -from 1NvkbxueQRFcGtmK14d5iRq4Afqu6nLdi -to 1LCtT5maRcPhVnARnN8YiHeokNmq1Xvvc1 -amount 1
+src.exe send -from 1BDos9C42Qp3u7AEfkcnL5KmjxCh1wv56F -to 1LnSkbdakD2Si4gnND3qvTTk24WYNeAPnR -amount 1
+
+查看余额
+src.exe getbalance -address 1A5S2LzLuWyPq8j257wmsjoVzauThm56BV
+src.exe getbalance -address 1NvkbxueQRFcGtmK14d5iRq4Afqu6nLdi
+src.exe getbalance -address 1BDos9C42Qp3u7AEfkcnL5KmjxCh1wv56F
+src.exe getbalance -address 1LCtT5maRcPhVnARnN8YiHeokNmq1Xvvc1
+src.exe getbalance -address 1LnSkbdakD2Si4gnND3qvTTk24WYNeAPnR
+
+
