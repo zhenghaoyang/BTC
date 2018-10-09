@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="db16da4b-e096-4a86-960c-fe4c24a4a0a5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../../03_持久化&amp;CLI/code/block.go" beforeDir="false" afterPath="$PROJECT_DIR$/../../03_持久化&amp;CLI/code/block.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../03_持久化&amp;CLI/code/blockchain.db" beforeDir="false" afterPath="$PROJECT_DIR$/../../03_持久化&amp;CLI/code/blockchain.db" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../03_持久化&amp;CLI/code/code.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../03_持久化&amp;CLI/code/code.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../03_持久化&amp;CLI/code/db.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../go语言圣经/ex5/dst.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../go语言圣经/ex5/dst.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../go语言圣经/ex5/main.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../go语言圣经/ex5/main.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../go语言圣经/ex5/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/../../go语言圣经/ex5/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../go语言圣经/ex5/temp.go" beforeDir="false" afterPath="$PROJECT_DIR$/../../go语言圣经/ex5/temp.go" afterDir="false" />
-    </list>
+    <list default="true" id="db16da4b-e096-4a86-960c-fe4c24a4a0a5" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +12,7 @@
     <session id="1480206609">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.6" value="1" />
           <entry key="project.opened" value="2" />
@@ -264,7 +256,8 @@
     </option>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
+    <frame x="-8" y="-8" width="1456" height="876" extended-state="7" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.5441989" visible="true" weight="0.24063401" />
       <window_info id="Structure" order="1" sideWeight="0.4558011" side_tool="true" visible="true" weight="0.24063401" />
